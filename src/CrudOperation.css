@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .main-div{
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+    margin: 30px 350px;
+    padding: 20px;
+  }
+  .displaydata{
+    width: 50%;
+    /* background-color:aqua; */
+    height: 50%;
+    /* list-style: none; */
+    margin-left: 350px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  li {
+    list-style: none;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+
+}
